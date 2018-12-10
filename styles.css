@@ -17,11 +17,11 @@ h1{
     color: #00f;
 }
 h1{
-    color:blueviolet;
+    color:red;
     text-align:center;
 }
 h2{
-    color:pink;
+    color:blue;
     font-style:arabic;
     text-align: center;
 }
@@ -35,5 +35,31 @@ h2{
 text-emphasis: bold;
     }
     p{
-      font-style: italic 
+      font-style: inherit;
     }
+h1{
+    color:rebeccapurple;
+    text-align:center;
+ }
+ p{
+    text-align:center;  
+ }
+ h2{
+    color:blue;
+    font-style:arabic;
+    text-align: left;
+}
+.one{
+float: left;
+margin-right:3%
+}
+body{
+    background-color: gray;
+}
+img{
+    height: 900x;
+    width: 700x;
+}
+h3{
+    font-style: italic;
+}
