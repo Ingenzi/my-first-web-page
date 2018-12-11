@@ -29,3 +29,16 @@ h4{
 .copy{
     margin-top: 80px;
 }
+.twitter{
+    background-color:white;
+    color:aqua;
+
+}
+.google{
+    background-color:gray;
+    color: blue; 
+}
+.facebook{
+    background-color:white;
+    color: blue; 
+}
