@@ -1,11 +1,11 @@
 h1{
     color:blue;
-    text-align:center;
+    text-align:left;
 }
 h2{
     color:green;
     font-style:italic;
-    text-align: center;
+    text-align:left;
 }
 p{
     font-family:sans-serif;
