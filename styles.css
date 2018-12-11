@@ -1,18 +1,5 @@
-h1{
-    color:blue;
-    text-align:center;
-}
-h2{
-    color:green;
-    font-style:italic;
-    text-align: center;
-}
-p{
-    font-family:sans-serif;
-}
-ul{
-    line-height: 40px;
-}
+
+
 h1{
     color: #00f;
 }
@@ -48,18 +35,4 @@ h1{
     color:blue;
     font-style:arabic;
     text-align: left;
-}
-.one{
-float: left;
-margin-right:3%
-}
-body{
-    background-color: gray;
-}
-img{
-    height: 900x;
-    width: 700x;
-}
-h3{
-    font-style: italic;
-}
+ }

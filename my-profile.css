@@ -1,0 +1,27 @@
+
+.one{
+float: left;
+margin-right:3%
+}
+body{
+    background-color: gray;
+}
+img{
+    height: 900x;
+    width: 700x;
+}
+h3{
+    font-style: italic;
+}
+p1,p2{
+text-align:left;
+}
+h4{
+    font-style: calibri;
+    color:yellowgreen;
+  }
+
+  h4{
+   text-align: left;
+   font: size 5;
+  }
